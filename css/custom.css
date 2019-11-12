@@ -7,3 +7,26 @@
 	Note: This is custom css. All custom styles (user styles) declare here.
 
 **********************************************************************************/
+.modal-content > img{
+	width: 100% !important;
+	height: auto !important;
+}
+
+@media (min-width: 992px){
+.modal-lg {
+    max-width: 600px;
+}
+}
+.carousel-control-next, .carousel-control-prev{
+	top: 75%;
+}
+.close-modal{
+	position: absolute;
+	right: 0;
+	margin: 10px;
+	z-index: 99;
+	color: #FFF;
+}
+.mano{
+	font-size: 30px;
+}
