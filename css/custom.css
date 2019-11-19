@@ -33,7 +33,9 @@
 .header-middle-inner > .header-logo{
 	width: 220px;
 	height: auto;
+	margin-top: 5px;
+	margin-bottom: 5px;
 }
 .mobile-menu a.logo img{
-	max-height: 90%;
+	max-height: 90%;	
 }
