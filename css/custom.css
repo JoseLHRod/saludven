@@ -30,3 +30,10 @@
 .mano{
 	font-size: 30px;
 }
+.header-middle-inner > .header-logo{
+	width: 220px;
+	height: auto;
+}
+.mobile-menu a.logo img{
+	max-height: 90%;
+}
