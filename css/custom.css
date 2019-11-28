@@ -58,3 +58,6 @@
 	height: auto;	
 	position: fixed;
 }
+.bg-image-1{
+	background-image: url(../images/bg/bg-image-3.jpg);
+}
