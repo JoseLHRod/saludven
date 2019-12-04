@@ -61,3 +61,6 @@
 .bg-image-1{
 	background-image: url(../images/bg/bg-image-3.jpg);
 }
+.banner-single .banner-text h1 span{
+	background: transparent;
+}
