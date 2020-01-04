@@ -80,14 +80,14 @@
                         <!-- Main Navigation -->
                         <nav class="bk-navigation">
                             <ul>                                
-                                <li><a href="fernando_hernandez.html">Dr. Fernando Hernandez</a></li>                                    
+                                <li><a href="fernando_hernandez.html">Dr. Fernando Hernández</a></li>                                    
                                 <li class="bk-dropdown"><a href="servicios.html">Servicios</a>
                                     <ul>
                                         <li><a href="servicios.html">Unidad de enfermedades protáticas</a></li>
                                         <li><a href="servicios.html">Unidad  de Urodinamica, Andrología y piso pélvico</a></li>
                                         <li><a href="servicios.html">Unidad de ecografía y endoscopia </a></li>
                                         <li><a href="servicios.html">Unidad de enfermedades de transmisión  sexual</a></li>
-                                        <li><a href="servicios.html">Unidad de Urooncología ( Diagnostico y tratamiento de cáncer en urología)</a></li>
+                                        <li><a href="servicios.html">Unidad de Uro Oncología ( Diagnostico y tratamiento de cáncer en urología)</a></li>
                                         <li><a href="servicios.html">Unidad de procedimientos Ambulatorios</a></li>
                                         <li><a href="servicios.html">Unidad de Litiasis (cálculos) urinarios </a></li>                                                                                
                                     </ul>
@@ -99,6 +99,7 @@
                                         <li><a href="procedimientos.html">Urodinámica Computarizada</a></li>
                                         <li><a href="procedimientos.html">Biopsias prostática guiada por ultrasonido transrectal</a></li>
                                         <li><a href="procedimientos.html">Tratamiento mínimamente invasivo de enfermedades prostáticas  y renales</a></li>
+                                        <li><a href="procedimientos.html">Tratamiento para lesiones por virus de papiloma humano (VPH)</a></li>
                                     </ul>
                                 </li>
                                 <li><a href="galeria.html">Galería</a>
@@ -154,7 +155,7 @@
                                 </div>        
                             </div>
                             <div class="col-xs-4">
-                                <img class="img-banner wow bounceInRight" src="images/banner/banner-4.png" data-wow-duration="3s" data-wow-delay="1s">
+                                <img class="img-banner" src="images/banner/banner-4.png">
                             </div>                                    
                     </div>                    
                 </div>                                            
@@ -182,7 +183,7 @@
                                 </div>        
                             </div>
                             <div class="col-xs-4">
-                                <img class="img-banner wow bounceInRight" src="images/banner/banner-6.png" data-wow-duration="3s" data-wow-delay="1s">
+                                <img class="img-banner" src="images/banner/banner-6.png">
                             </div>                                    
                     </div>                    
                 </div>                
